@@ -1,3 +1,5 @@
+#import <Foundation/Foundation.h>
+
 @interface BluetoothDevice : NSObject
 - (NSString *)description;
 - (NSString *)name;
